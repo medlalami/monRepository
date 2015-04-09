@@ -4,3 +4,12 @@ body{
 	font-size: 14px;
 	color: #000;
 }
+
+h1{
+	text-decoration: underline;
+	color: red;
+}
+
+h2{
+	font-size: 12px;
+}
